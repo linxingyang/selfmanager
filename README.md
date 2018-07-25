@@ -31,6 +31,7 @@
         * [停用url连接管理](#停用url连接管理)
         * [其它](#其它)
     * [Sql脚本](#sql脚本)
+    * [注意](#注意)
 
 
 
@@ -621,6 +622,9 @@ update config set state=1 where type='url'
 执行mysql_script下的selfmanagerV1.1.sql
 
 
+## 注意
+
+war包和source中的关于mysql连接的账号密码要改成你自己的。
 
 
 
