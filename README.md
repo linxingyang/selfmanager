@@ -1,6 +1,16 @@
 [TOC]
 
-[由来](https://github.com/linxingyang/selfmanager#由来)
+
+* [Live Demo 演示地址](#Live Demo 演示地址 )
+* [由来](#由来)
+* [介绍](#介绍)
+* [安装](#安装)
+* [安装](#由来)
+* [关于备份建议](#关于备份建议)
+* [后期可能考虑加入](#后期可能考虑加入)
+* [致谢](#致谢)
+* [联系我](#联系我)
+* [License](#License)
 
 
 ## Live Demo 演示地址
