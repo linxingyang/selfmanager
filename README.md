@@ -23,7 +23,7 @@
     * [联系我](#联系我)
     * [License](#license)
 * v1.1
-	* [Bug Fixed](bug-fixed)
+	* [Bug Fixed](#bug-fixed)
 	* [新增修改](#新增修改)
 		* [新增长期任务明细页面](#新增长期任务明细页面)
         * [天任务页面](#天任务页面)
@@ -620,11 +620,3 @@ update config set state=1 where type='url'
 
 
 
-项目需要更新到github，以及自己的云服务器
-在那之前，要搞清楚哪些sql动了
-然后md文档要写好。
-
-
-1，写Markdown-》同时更新CSDN和Github
-2，部署到自己的云服务器
-3，发布到Github
