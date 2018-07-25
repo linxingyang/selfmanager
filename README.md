@@ -30,6 +30,7 @@
         * [部分页面新增上一项下一项](#部分页面新增上一项下一项)
         * [停用url连接管理](#停用url连接管理)
         * [其它](#其它)
+    * [Sql脚本](#Sql脚本)
 
 
 
@@ -615,6 +616,9 @@ update config set state=1 where type='url'
 基本上所有页面js代码调整，页面HTML调整
 
 
+## Sql脚本
+
+执行mysql_script下的selfmanagerV1.1.sql
 
 
 
